@@ -955,122 +955,127 @@ const data = {
         },
     ],
     Anambra: [{
-        Town: "Anambra",
-        data: [{
-                Name: "CHIBUZOR OKAFOR & SONS ENTERPRISES",
-                Town: "Anambra",
-                Phone: "",
-                Email: "",
-                Address: "66, OWERRE-EZUKALA ROAD, UMUNZE, ANAMBRA",
-            },
-            {
-                Name: "CHIKA INVESTMENT",
-                Town: "Anambra",
-                Phone: "",
-                Email: "",
-                Address: "OGIDI, ANAMBRA NGA",
-            },
-            {
-                Name: "S. I. O. SHEDRACK",
-                Town: "Anambra",
-                Phone: "",
-                Email: "",
-                Address: "OGIDI, ANAMBRA NGA",
-            },
-
-        ]
-    }, {
-        Town: "Awka",
-        data: [{
-                Name: "DE-ZECOMA GLOBAL RESOURCES LIMITED",
-                Town: "Awka",
-                Phone: "07064235300",
-                Email: "",
-                Address: "14, UBA OKOLI LANE AMIKWO, AWKA SOUTH L.G.A, AWKA ANAMBRA",
-            },
-            {
-                Name: "	DANIEL C. EZEH & SONS",
-                Town: "Awka",
-                Phone: "",
-                Email: "",
-                Address: "AWKA ANAMBRA",
-            },
-        ]
-    }, {
-        Town: "Ihiala",
-        data: [{
-            Name: "DIVINE MERCY ENTERPRISES",
+            Town: "Anambra",
+            data: [{
+                    Name: "CHIBUZOR OKAFOR & SONS ENTERPRISES",
+                    Town: "Anambra",
+                    Phone: "",
+                    Email: "",
+                    Address: "66, OWERRE-EZUKALA ROAD, UMUNZE, ANAMBRA",
+                },
+                {
+                    Name: "CHIKA INVESTMENT",
+                    Town: "Anambra",
+                    Phone: "",
+                    Email: "",
+                    Address: "OGIDI, ANAMBRA NGA",
+                },
+                {
+                    Name: "S. I. O. SHEDRACK",
+                    Town: "Anambra",
+                    Phone: "",
+                    Email: "",
+                    Address: "OGIDI, ANAMBRA NGA",
+                },
+            ],
+        },
+        {
+            Town: "Awka",
+            data: [{
+                    Name: "DE-ZECOMA GLOBAL RESOURCES LIMITED",
+                    Town: "Awka",
+                    Phone: "07064235300",
+                    Email: "",
+                    Address: "14, UBA OKOLI LANE AMIKWO, AWKA SOUTH L.G.A, AWKA ANAMBRA",
+                },
+                {
+                    Name: "	DANIEL C. EZEH & SONS",
+                    Town: "Awka",
+                    Phone: "",
+                    Email: "",
+                    Address: "AWKA ANAMBRA",
+                },
+            ],
+        },
+        {
             Town: "Ihiala",
-            Phone: "0803-4063647",
-            Email: "",
-            Address: "EBUBEDIKE HOUSE, OFF UMUNNAMEHI ROAD, IHIALA, ANAMBRA, NGA",
-        }, ]
-    }, {
-        Town: "Nnewi",
-        data: [{
-            Name: "E. MADSON EXPRESS LINKS LTD",
+            data: [{
+                Name: "DIVINE MERCY ENTERPRISES",
+                Town: "Ihiala",
+                Phone: "0803-4063647",
+                Email: "",
+                Address: "EBUBEDIKE HOUSE, OFF UMUNNAMEHI ROAD, IHIALA, ANAMBRA, NGA",
+            }, ],
+        },
+        {
             Town: "Nnewi",
-            Phone: "0803-4063647",
-            Email: "",
-            Address: "Zone 6, Ext 49 Nkwo Main Market, NNEWI, ANAMBRA",
-        }]
-    }, {
-        Town: "Ogidi",
-        data: [{
-            Name: "TRINITY ONE GOD VENTURES LIMITED",
+            data: [{
+                Name: "E. MADSON EXPRESS LINKS LTD",
+                Town: "Nnewi",
+                Phone: "0803-4063647",
+                Email: "",
+                Address: "Zone 6, Ext 49 Nkwo Main Market, NNEWI, ANAMBRA",
+            }, ],
+        },
+        {
             Town: "Ogidi",
-            Phone: "0806-4513160",
-            Email: "",
-            Address: "OGIDI, ANAMBRA NGA",
-        }]
-    }, {
-        Town: "Onitsha",
-        data: [{
-                Name: "C M OBIDIEGWU",
-                Town: "Onitsha",
-                Phone: "0905-1068031",
+            data: [{
+                Name: "TRINITY ONE GOD VENTURES LIMITED",
+                Town: "Ogidi",
+                Phone: "0806-4513160",
                 Email: "",
-                Address: "A23/15GA RELIEF MARKET, ONITSHA, ANAMBRA",
-            },
-            {
-                Name: "EMMY FRANK INDUSTRIES LIMITED",
-                Town: "Onitsha",
-                Phone: "0813-7141680",
-                Email: "",
-                Address: "MAIN MARKET OKPOKO ONITSHA ANAMBRA",
-            },
-            {
-                Name: "U.EMMY RAPH APEX NIGERIA LIMITED",
-                Town: "Onitsha",
-                Phone: "0803-9520455",
-                Email: "",
-                Address: "A23/15GA RELIEF MARKET, ONITSHA, ANAMBRA",
-            },
-            {
-                Name: "UGONIC GLOBAL LIMITED",
-                Town: "Onitsha",
-                Phone: "0803-4669981",
-                Email: "",
-                Address: "172, WETHRAL ROAD, OWERRI IMO",
-            },
-            {
-                Name: "EDUMORE INTEGRATED RESOURCES LIMITED",
-                Town: "Onitsha",
-                Phone: "",
-                Email: "",
-                Address: "ONITSHA, ANAMBRA",
-            },
-            {
-                Name: "OGENE CONCERN (SEMOVITA)",
-                Town: "Onitsha",
-                Phone: "08033225250",
-                Email: "",
-                Address: "ONITSHA ANAMBRA",
-            },
-        ]
-    }],
+                Address: "OGIDI, ANAMBRA NGA",
+            }, ],
+        },
+        {
+            Town: "Onitsha",
+            data: [{
+                    Name: "C M OBIDIEGWU",
+                    Town: "Onitsha",
+                    Phone: "0905-1068031",
+                    Email: "",
+                    Address: "A23/15GA RELIEF MARKET, ONITSHA, ANAMBRA",
+                },
+                {
+                    Name: "EMMY FRANK INDUSTRIES LIMITED",
+                    Town: "Onitsha",
+                    Phone: "0813-7141680",
+                    Email: "",
+                    Address: "MAIN MARKET OKPOKO ONITSHA ANAMBRA",
+                },
+                {
+                    Name: "U.EMMY RAPH APEX NIGERIA LIMITED",
+                    Town: "Onitsha",
+                    Phone: "0803-9520455",
+                    Email: "",
+                    Address: "A23/15GA RELIEF MARKET, ONITSHA, ANAMBRA",
+                },
+                {
+                    Name: "UGONIC GLOBAL LIMITED",
+                    Town: "Onitsha",
+                    Phone: "0803-4669981",
+                    Email: "",
+                    Address: "172, WETHRAL ROAD, OWERRI IMO",
+                },
+                {
+                    Name: "EDUMORE INTEGRATED RESOURCES LIMITED",
+                    Town: "Onitsha",
+                    Phone: "",
+                    Email: "",
+                    Address: "ONITSHA, ANAMBRA",
+                },
+                {
+                    Name: "OGENE CONCERN (SEMOVITA)",
+                    Town: "Onitsha",
+                    Phone: "08033225250",
+                    Email: "",
+                    Address: "ONITSHA ANAMBRA",
+                },
+            ],
+        },
+    ],
 
-    "Bauchi": [{
+    Bauchi: [{
         Town: "Bauchi",
         data: [{
                 Name: "SHEHU ADAMU-PASTA",
@@ -1107,8 +1112,8 @@ const data = {
                 Email: "khalidyusuf59@gmail.com",
                 Address: "BLOCK 34, NO. 14 & 16 CENTRAL MARKET, BAUCHI",
             },
-        ]
-    }],
+        ],
+    }, ],
     Bayelsa: [{
         Town: "Yenagoa",
         data: [{
@@ -1132,9 +1137,412 @@ const data = {
                 Email: "juoilminister@gmail.com",
                 Address: "YENAGUA, BAYELSA",
             },
+        ],
+    }, ],
+    Benue: [{
+            Town: "Gboko",
+            data: [{
+                    Name: "BLESSED CHUCKS ENTERPRISES",
+                    Town: "Gboko",
+                    Phone: "080-63975322",
+                    Email: "blessedchucksent@gmail.com",
+                    Address: "BB1 10/12 LIBERTY LINE, GBOKO, BENUE",
+                },
+                {
+                    Name: "ELE CHUKWU AND SONS NIGERIA LIMITED",
+                    Town: "Gboko",
+                    Phone: "080-61208730",
+                    Email: "",
+                    Address: "SHOP NO 3 TOFI PLAZA BEHIND ECOBANK GBOKO MAIN MARKET, GBOKO BENUE",
+                },
+                {
+                    Name: "C. C. I. INVESTMENT",
+                    Town: "Gboko",
+                    Phone: "07063950159",
+                    Email: "",
+                    Address: "D41 CONCORD LINE, MAIN MARKET, BENUE STATE. GBOKO",
+                },
+            ],
+        },
+        {
+            Town: "Katsina-Ala",
+            data: [{
+                    Name: "TOS ENTERPRISES",
+                    Town: "Katsina-Ala",
+                    Phone: "07037222165",
+                    Email: "",
+                    Address: "KATSINA-ALA BENUE NGA",
+                },
+                {
+                    Name: "CHIJISON INTERNATIONAL",
+                    Town: "Katsina-Ala",
+                    Phone: "08166628024",
+                    Email: "",
+                    Address: "KATSINA-ALA BENUE NGA",
+                },
+            ],
+        },
+        {
+            Town: "Makurdi",
+            data: [{
+                    Name: "GORSCO ENTERPRISE",
+                    Town: "Makurdi",
+                    Phone: "080-37481437",
+                    Email: "",
+                    Address: "12 NIGER CRESCENT MAKURDI, BENUE",
+                },
+                {
+                    Name: "BRO JUDE OKEKE ENTERPRISES",
+                    Town: "Makurdi",
+                    Phone: "0803-9282538",
+                    Email: "Judeokeke103@gmailcom",
+                    Address: "NO E1/21, MARKURDI MODEL MARKET MAKURDI, BENUE",
+                },
+                {
+                    Name: "NEW LIFE VENTURES - PASTA",
+                    Town: "Makurdi",
+                    Phone: "0803-9095995",
+                    Email: "eenwelu@gmail.com",
+                    Address: "15 NIGER CRESCENT WADA MARKET MAKURDI, BENUE",
+                },
+                {
+                    Name: "NEW LIFE BAKERY",
+                    Town: "Makurdi",
+                    Phone: "080-39095995",
+                    Email: "",
+                    Address: "MAKURDI, BENUE",
+                },
+                {
+                    Name: "RIKADAWA FOODS NIGERIA LTD",
+                    Town: "Makurdi",
+                    Phone: "0803-6387401",
+                    Email: "rikadawafoods@gmail.com",
+                    Address: "5 BANK ROAD BEFORE A DIVISION. MAKURDI BENUE",
+                },
+                {
+                    Name: "JOE BEST",
+                    Town: "Makurdi",
+                    Phone: "08037540781",
+                    Email: "",
+                    Address: "MAKURDI, BENUE",
+                },
+                {
+                    Name: "JUDE  COMPANY LIMITED",
+                    Town: "Makurdi",
+                    Phone: "08039282538",
+                    Email: "",
+                    Address: "MAKURDI, BENUE",
+                },
+            ],
+        },
+        {
+            Town: "Oturkpo",
+            data: [{
+                    Name: "LASOMIS & SONS CO LTD (NIG)",
+                    Town: "Makurdi",
+                    Phone: "080-39248387",
+                    Email: "lasisiomipidan@gmail.com",
+                    Address: "A2/27N OTURKPO MAIN MARKET, OTUKPO, BENUE",
+                },
+                {
+                    Name: "BETAJOELYN SENSATIONAL ENTERPRISES",
+                    Town: "Makurdi",
+                    Phone: "08039177688",
+                    Email: "ogbeejehlinda14@gmail.com",
+                    Address: "21, NEW MARKET ROAD, OTURKPO BENUE",
+                },
+                {
+                    Name: "MAZII. OKEREKE & SONS ENTERPRISES",
+                    Town: "Makurdi",
+                    Phone: "",
+                    Email: "",
+                    Address: "OTURKPO, BENUE",
+                },
+            ],
+        }, {
+            Town: "Zaki Biam",
+            data: [{
+                    Name: "BUNEX NIGERIA LTD - PASTA",
+                    Town: "Makurdi",
+                    Phone: "0803-3950636",
+                    Email: "Ifybunex57@gmail",
+                    Address: "SINGA MARKET KANO ZAKI BIAM BENUE",
+                },
+                {
+                    Name: "BUNEX NIGERIA LIMITED",
+                    Town: "Makurdi",
+                    Phone: "0803-3950636",
+                    Email: "",
+                    Address: "ZAKI BIAM, BENUE",
+                },
+            ]
+        }
+    ],
+    "Borno": [{
+        Town: "Biu",
+        data: [{
+            Name: "ALH. ADAMU AYUBA-PASTA",
+            Town: "Biu",
+            Phone: "0806-5470547",
+            Email: "hassanadamuayuba@gmai.com",
+            Address: "Biu Central Market, Biu Shop No K 3B BIU BORNO",
+        }]
+    }, {
+        Town: "Maiduguri",
+        data: [{
+                Name: "ALHAJI ALI HASSAN AND SONS ENTERPRISES",
+                Town: "Maiduguri",
+                Phone: "08024379146",
+                Email: "bunukawu1@gmail.com",
+                Address: "ALONG BAGA ROAD, NO2 BOLORI STORE MAIDUGURI BORNO",
+            },
+            {
+                Name: "ALI KASHIM SAMAILA",
+                Town: "Maiduguri",
+                Phone: "0808-1529858",
+                Email: "",
+                Address: "BEISHEIK KAGA, MAIDUGURI BORNO",
+            },
+            {
+                Name: "ALHAJI ALI GREMA",
+                Town: "Maiduguri",
+                Phone: "0802-6186446",
+                Email: "auwaludanhaja@gmail.com",
+                Address: "SHOP NO 5, MONDAY MARKET M4 MAIDUGURI BORNO",
+            },
+            {
+                Name: "ALH. BUNU GOROMA",
+                Town: "Maiduguri",
+                Phone: "0802-0844000",
+                Email: "baanagoroma@yahoo.com",
+                Address: "408, SARKIN HAUSAWA STREET, HAUZARI ZANGO WARD MAIDUGURI BORNO",
+            },
+            {
+                Name: "ALH. GANA ABUBAKAR TUJJANI - PASTA",
+                Town: "Maiduguri",
+                Phone: "0806-2481800",
+                Email: "alaiganabukar@gmail.com",
+                Address: "ONWE,OPP.TRAILER PARK RIVER STATE Maiduguri Borno",
+            },
+            {
+                Name: "BUKAR FANTAMI MAGUMERI",
+                Town: "Maiduguri",
+                Phone: "0803-6906060",
+                Email: "",
+                Address: "No 8 One Way Line,  Wayakawoka, Monday, Goni Mukhtar Street, MAIDUGURI BORNO",
+            },
+            {
+                Name: "BB LAMISULA NIGERIA LIMITED",
+                Town: "Maiduguri",
+                Phone: "0803-6994396",
+                Email: "",
+                Address: "11, ASHEKH ZARMA STREET, BOLORI LAYOUT, MAIDUGURI BORNO",
+            },
+            {
+                Name: "BABA KURA ALH. LAWAN",
+                Town: "Maiduguri",
+                Phone: "0809-3767657",
+                Email: "",
+                Address: "HAUSARI ZANGO WARD, MAIDUGURI BORNO",
+            },
+            {
+                Name: "BURA ABUBAKAR",
+                Town: "Maiduguri",
+                Phone: "0802-3903590",
+                Email: "mburaabkenterprises@gmail.com",
+                Address: "BABBAN LAYI FUNO MARKET, BORNO MAIDUGURI",
+            },
         ]
-    }]
-};
+    }],
+    "Cross River": [{
+        Town: "Calabar",
+        data: [{
+                Name: "MARY BILL GLOBAL VENTURES LIMITED",
+                Town: "Calabar",
+                Phone: "0803-7099712",
+                Email: "",
+                Address: "PLOT 2, EKORINIM INDUSTRIAL LAYOUT , ALONG STATE MINISTRY OF WORKS BY CALABAR SPORTS CLUB OFF MM HIGHWAY CALABAR CROSS RIVER",
+            },
+            {
+                Name: "CHRISMO ENTERPRISE",
+                Town: "Calabar",
+                Phone: "08038964612",
+                Email: "",
+                Address: "CALABAR, CROSS RIVERS",
+            },
+            {
+                Name: "HI- QUALITY",
+                Town: "Calabar",
+                Phone: "08038765823",
+                Email: "",
+                Address: "CALABAR, CROSS RIVERS",
+            },
+            {
+                Name: "ROYAL QUEEN BAKERY",
+                Town: "Calabar",
+                Phone: "08033526344",
+                Email: "",
+                Address: "CALABAR, CROSS RIVERS",
+            },
+            {
+                Name: "SAINT JUDE",
+                Town: "Calabar",
+                Phone: "08039385097",
+                Email: "",
+                Address: "CALABAR, CROSS RIVERS",
+            },
+            {
+                Name: "AHMED B. GOMBE",
+                Town: "Calabar",
+                Phone: "",
+                Email: "",
+                Address: "CALABAR, CROSS RIVERS",
+            },
+            {
+                Name: "MARY BILL GLOBAL VENTURES LTD",
+                Town: "Calabar",
+                Phone: "",
+                Email: "maryann_manam@yahoo.com",
+                Address: " C/O PLOT 2 EKORINIM INDUSTRIAL LAYOUT (ALONG STAFF MINISTRY OF WORKS BY CALABAR SPORTS CLUB OFF  MM/HIGHWAY CALABAR CROSS RIVER",
+            },
+        ]
+    }, {
+        Town: "Ikom",
+        data: [{
+                Name: "GENCO ADIDAS RESOURCES LIMITED",
+                Town: "Ikom",
+                Phone: "08033416191",
+                Email: "",
+                Address: "IKOM, Cross Rivers",
+            },
+            {
+                Name: "BEF LOGISTICS AND SERVICES",
+                Town: "Ikom",
+                Phone: "08033516590",
+                Email: "beflogistist600@gmail.com",
+                Address: "50 CALABAR ROAD, IKOM Cross River",
+            },
+        ]
 
+    }, {
+        Town: "Ikot Ekpene",
+        data: [{
+            Name: "M/S BEX RESOURCED LIMITED",
+            Town: "Ikot Ekpene",
+            Phone: "08032587243",
+            Email: "",
+            Address: "IKOT EKPENE Cross Rivers",
+        }, ]
+    }],
+    Delta: [{
+            Town: "Agbor",
+            data: [{
+                    Name: "A & B VENTURES",
+                    Town: "Agbor",
+                    Phone: "0802-8887374",
+                    Email: "",
+                    Address: "AGBOR DELTA",
+                },
+                {
+                    Name: "HENRIZONALS ENT",
+                    Town: "Agbor",
+                    Phone: "08033818629",
+                    Email: "helenogoh1@gmail.com",
+                    Address: "SHOP B1 & SHOP B2 MAIN MARKET, BOJI-BOJI OWA DELTA  AGBOR",
+                },
+            ]
+        }, {
+            Town: "Asaba",
+            data: [{
+                    Name: "DONCLIFF PROJECTS INT. LTD",
+                    Town: "Agbor",
+                    Phone: "0808-7042706",
+                    Email: "doncliffprojects@yahoo.com",
+                    Address: "No 2. Obidimma Okonne Street, Off Okpanan Road, ASABA DELTA",
+                },
+                {
+                    Name: "ELLA MARIE NIGERIA LIMITED",
+                    Town: "Agbor",
+                    Phone: "0816-5441706",
+                    Email: "stelluyufine@yahoo.com",
+                    Address: "49A, AFUBERA STREET, ODAKPU ONITSHA, ANAMBRA",
+                },
+            ]
+        }, {
+            Town: "Delta",
+            data: [{
+                Name: "CK ELOHIM LOGISTIC AND OIL SERVICES",
+                Town: "Delta",
+                Phone: "0803-4988263",
+                Email: "",
+                Address: "112, PTI ROAD EFFURUN, DELTA",
+            }, ]
+        }, {
+            Town: "Sapele",
+            data: [{
+                Name: "MIFAGARARA ENTERPRISES",
+                Town: "Sapele",
+                Phone: "0816-8841687",
+                Email: "eshegbeyifaith@yahoo.com",
+                Address: "78A SAPELE/WARRI ROAD SAPELE, DELTA",
+            }, ]
+        },
+        {
+            Town: "Ughelli",
+            data: [{
+                Name: "VEMY GLOBAL VENTURES",
+                Town: "Ughelli",
+                Phone: "08035267018	",
+                Email: "",
+                Address: "50, AFIESERE ROAD, UGHELLI DELTA",
+            }, ]
+        },
+        {
+            Town: "Warri",
+            data: [{
+                Name: "VEMY GLOBAL VENTURES",
+                Town: "Warri",
+                Phone: "0802-7226858",
+                Email: "",
+                Address: "NO 5 NUPE STREET, OFF HAUSA QUATERS, IGBUDU MARKET WARRI DELTA",
+            },
+            {
+                Name: "KINORA ENTERPRISE - PASTA",
+                Town: "Warri",
+                Phone: "0802-3377989",
+                Email: "",
+                Address: "14, NUPE STREET, BY IGBUDU MARKET WARRI, DELTA",
+            },
+            {
+                Name: "NNA - NNA & SONS NIG LTD. -PASTA",
+                Town: "Warri",
+                Phone: "0803-8949433",
+                Email: "nnannawarri@yahoo.com",
+                Address: "11,14 NUPE STREET BY HOUSA QUARTERS WARRI DELTA",
+            },
+            {
+                Name: "CRAKFIN NIGERIA LIMITED",
+                Town: "Warri",
+                Phone: "081-34255889",
+                Email: "ifyaurthur@yahoo.com",
+                Address: "1, ABADI STREET, BEHIND FEDERAL UNIVERSITY OF PETROLEUM RESOURCES, OFF D.S.C EXPRESSWAY WARRI, DELTA",
+            },
+            {
+                Name: "THREE M & E NIGERIA ENTERPRISES",
+                Town: "Warri",
+                Phone: "0703-1562920",
+                Email: "ovoke4real@yahoo.com",
+                Address: "JESUS IS LORD PLAZA, OFF AHESHE ROAD, EFFURUN WARRI, DELTA",
+            },
+            {
+                Name: "SAMNTAG NIGERIA LIMITED",
+                Town: "Warri",
+                Phone: "0803-4849440",
+                Email: "samntag@yahoo.com",
+                Address: "20, IDAMA PLAZA, OKUMAGBA AVENUE. WARRI, DELTA",
+            }, ]
+        },
+    ]
+};
 
 export default data;
