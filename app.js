@@ -1500,49 +1500,1465 @@ const data = {
         {
             Town: "Warri",
             data: [{
-                Name: "VEMY GLOBAL VENTURES",
-                Town: "Warri",
-                Phone: "0802-7226858",
+                    Name: "VEMY GLOBAL VENTURES",
+                    Town: "Warri",
+                    Phone: "0802-7226858",
+                    Email: "",
+                    Address: "NO 5 NUPE STREET, OFF HAUSA QUATERS, IGBUDU MARKET WARRI DELTA",
+                },
+                {
+                    Name: "KINORA ENTERPRISE - PASTA",
+                    Town: "Warri",
+                    Phone: "0802-3377989",
+                    Email: "",
+                    Address: "14, NUPE STREET, BY IGBUDU MARKET WARRI, DELTA",
+                },
+                {
+                    Name: "NNA - NNA & SONS NIG LTD. -PASTA",
+                    Town: "Warri",
+                    Phone: "0803-8949433",
+                    Email: "nnannawarri@yahoo.com",
+                    Address: "11,14 NUPE STREET BY HOUSA QUARTERS WARRI DELTA",
+                },
+                {
+                    Name: "CRAKFIN NIGERIA LIMITED",
+                    Town: "Warri",
+                    Phone: "081-34255889",
+                    Email: "ifyaurthur@yahoo.com",
+                    Address: "1, ABADI STREET, BEHIND FEDERAL UNIVERSITY OF PETROLEUM RESOURCES, OFF D.S.C EXPRESSWAY WARRI, DELTA",
+                },
+                {
+                    Name: "THREE M & E NIGERIA ENTERPRISES",
+                    Town: "Warri",
+                    Phone: "0703-1562920",
+                    Email: "ovoke4real@yahoo.com",
+                    Address: "JESUS IS LORD PLAZA, OFF AHESHE ROAD, EFFURUN WARRI, DELTA",
+                },
+                {
+                    Name: "SAMNTAG NIGERIA LIMITED",
+                    Town: "Warri",
+                    Phone: "0803-4849440",
+                    Email: "samntag@yahoo.com",
+                    Address: "20, IDAMA PLAZA, OKUMAGBA AVENUE. WARRI, DELTA",
+                },
+            ]
+        },
+    ],
+    Ebonyi: [{
+        Town: "Abakaliki",
+        data: [{
+                Name: "SALTA MARIA ENTERPRISE LTD",
+                Town: "Abakaliki",
+                Phone: "080-60387603",
                 Email: "",
-                Address: "NO 5 NUPE STREET, OFF HAUSA QUATERS, IGBUDU MARKET WARRI DELTA",
+                Address: "11, HOSSANA STREET, ABAKALIKI, EBONYI",
             },
             {
-                Name: "KINORA ENTERPRISE - PASTA",
-                Town: "Warri",
-                Phone: "0802-3377989",
+                Name: "MBONU G. N. ENTERPRISES",
+                Town: "Abakaliki",
+                Phone: "0803-5080899",
                 Email: "",
-                Address: "14, NUPE STREET, BY IGBUDU MARKET WARRI, DELTA",
+                Address: "LINE PD 1, REGIONAL MARKET, ABAKALIKI EBONYI",
             },
             {
-                Name: "NNA - NNA & SONS NIG LTD. -PASTA",
-                Town: "Warri",
-                Phone: "0803-8949433",
-                Email: "nnannawarri@yahoo.com",
-                Address: "11,14 NUPE STREET BY HOUSA QUARTERS WARRI DELTA",
+                Name: "SUNDAY OKPANUM",
+                Town: "Abakaliki",
+                Phone: "08034304391",
+                Email: "",
+                Address: "ABAKALIKI, EBONYI",
             },
             {
-                Name: "CRAKFIN NIGERIA LIMITED",
-                Town: "Warri",
-                Phone: "081-34255889",
-                Email: "ifyaurthur@yahoo.com",
-                Address: "1, ABADI STREET, BEHIND FEDERAL UNIVERSITY OF PETROLEUM RESOURCES, OFF D.S.C EXPRESSWAY WARRI, DELTA",
+                Name: "UZOCHUKWU ODINAKA",
+                Town: "Abakaliki",
+                Phone: "08060387603",
+                Email: "",
+                Address: "ABAKALIKI EBONYI",
+            },
+        ]
+
+
+    }],
+    Edo: [{
+        Town: "Auchi",
+        data: [{
+                Name: "RIDWANULLAHI FARMS NIGERIA",
+                Town: "Auchi",
+                Phone: "0803-7219915",
+                Email: "ridwanullahifarmsnig@gmail",
+                Address: "ABAKALIKI EBONYIBEHIND UNITY BANK,INU UMORU STREET, USOGUN AUCHI, EDO",
             },
             {
-                Name: "THREE M & E NIGERIA ENTERPRISES",
-                Town: "Warri",
-                Phone: "0703-1562920",
-                Email: "ovoke4real@yahoo.com",
-                Address: "JESUS IS LORD PLAZA, OFF AHESHE ROAD, EFFURUN WARRI, DELTA",
+                Name: "AYINDE OGO-LUWA INTEGRATED RESOURCE LIMITED	",
+                Town: "Auchi",
+                Phone: "0803-3392150",
+                Email: "ayindaolowa@gmail.com",
+                Address: "20, AUCHI AGENEBODE ROAD AYOWURI ETSAKA L.G.A AUCHI EDO",
+            },
+        ]
+    }, {
+        Town: "Benin",
+        data: [{
+                Name: "UNIBAKE IND LTD - PASTA	",
+                Town: "Benin",
+                Phone: "0809-2510170",
+                Email: "unibakebread@gmail.com",
+                Address: "9,2nd Victory Lane, BENIN EDO",
             },
             {
-                Name: "SAMNTAG NIGERIA LIMITED",
-                Town: "Warri",
-                Phone: "0803-4849440",
-                Email: "samntag@yahoo.com",
-                Address: "20, IDAMA PLAZA, OKUMAGBA AVENUE. WARRI, DELTA",
+                Name: "OYSTER AND SONS ENTERPRISES-PASTA",
+                Town: "Benin",
+                Phone: "0803-6693735",
+                Email: "rosenaga4us@gmail.com",
+                Address: "1C ABURIME STREET- EXPOMA, BENIN EDO.",
+            },
+            {
+                Name: "EZE C. MULTITRADE SERVICES",
+                Town: "Benin",
+                Phone: "0803-7838665",
+                Email: "ezeventure@gmail.com",
+                Address: "2, ITEBITE STREET, OFF MISSION ROAD, BENIN EDO",
+            },
+            {
+                Name: "OSAGIODAGBON COMMERCIAL VENTURE",
+                Town: "Benin",
+                Phone: "0807-4971060",
+                Email: "uaiyas5801@gmail.com",
+                Address: "4 Butcher Street, Off Mission Road,  BENIN, EDO",
+            },
+            {
+                Name: "INNO-GLOBAL - ENTERPRISES",
+                Town: "Benin",
+                Phone: "0813-3933199",
+                Email: "Innocentchinaelo@gmail.com",
+                Address: "BENIN EDO",
+            },
+            {
+                Name: "KLESFY WORLD	",
+                Town: "Benin",
+                Phone: "0805-8803529",
+                Email: "klesfyworld@yahoo.com",
+                Address: "30 TV ROAD OFF SILUKO, BENIN EDO",
+            },
+        ]
+    }],
+    Ekiti: [{
+        Town: "Ado Ekiti",
+        data: [{
+            Name: "REAL GREAT EMMAB OPTIONS CONCEPT	",
+            Town: "Ado Ekiti",
+            Phone: "0805-8803529",
+            Email: "",
+            Address: "36 OKESHA STREET, ADO-EKITI, EKITI",
+        }, ]
+    }],
+
+    Enugu: [{
+        Town: "Enugu",
+        data: [{
+                Name: "ASOGWA MATTHEW UGWU	",
+                Town: "Enugu",
+                Phone: "0806-3719716",
+                Email: "",
+                Address: "5, WORLD BANK MOTOR PARK, ORBA INTERNATIONAL MARKET, UDENU LG AREA. INTERNATIONAL MARKET, UDENU LG AREA.ENUGU",
+            },
+            {
+                Name: "TOBBEY MERCHANDISE - PASTA",
+                Town: "Enugu",
+                Phone: "0803-5532175",
+                Email: "",
+                Address: " No. 5 & 8 Salt Warehouse. Akwata, Ogbete Main Market ENUGU",
+            },
+            {
+                Name: "KENDO MERCHANDISE",
+                Town: "Enugu",
+                Phone: "0803-5532175",
+                Email: "",
+                Address: "ENUGU, NGA",
+            },
+            {
+                Name: "AMUDESON NIGERIA ENTERPRISES",
+                Town: "Enugu",
+                Phone: "",
+                Email: "",
+                Address: "ENUGU, NGA",
+            },
+            {
+                Name: "IFEANYI OGBODO ENTERPRISES",
+                Town: "Enugu",
+                Phone: "",
+                Email: "",
+                Address: "8 & S8, NO7, OGBETE MAIN GATE, ENUGU",
+            },
+            {
+                Name: "VICO VICTUALIS NIGERIA ENTERPRISE",
+                Town: "Enugu",
+                Phone: "0803-4266017",
+                Email: "",
+                Address: "210, AGBANI ROAD, ENUGU",
+            },
+            {
+                Name: "T & TEES GLOBAL SERVICES",
+                Town: "Enugu",
+                Phone: "0803-3560347",
+                Email: "",
+                Address: " SHOP 80, BLOCK 2, NEW MARKET ROAD, NEW ENUGU HAVEN, ENUGU",
+            },
+            {
+                Name: "BASCILICA ENTERPRISES NIGERIA LIMITED",
+                Town: "Enugu",
+                Phone: "",
+                Email: "",
+                Address: "ENUGU",
+            },
+            {
+                Name: "IFEANYI CHUKWUMEH VENTURES",
+                Town: "Enugu",
+                Phone: "08038117471",
+                Email: "",
+                Address: "BLOCK 20, No 15 BLOCK @ 1 No 2 KENYATTA MARKET, UWANI, ENUGU",
+            },
+            {
+                Name: "JESUS IGWE ENTERPRISES",
+                Town: "Enugu",
+                Phone: "0805874307",
+                Email: "",
+                Address: "S2 N0. 20 OBGETE MAIN MARKET, ENUGU",
+            },
+            {
+                Name: "CHUKS MICHEAL LIMITED",
+                Town: "Enugu",
+                Phone: "09029291111",
+                Email: "",
+                Address: "ENUGU",
+            },
+            {
+                Name: "G. N. MBONU ENTERPRISES",
+                Town: "Enugu",
+                Phone: "",
+                Email: "",
+                Address: "ENUGU",
+            },
+        ]
+    }, {
+        Town: "Nsuka",
+        data: [{
+            Name: "PALMA SEAPORT LIMITED - PASTA",
+            Town: "Nsuka",
+            Phone: "",
+            Email: "",
+            Address: "SHOP 25 AND SHOP 26, SLAUGHTER ROAD OGIGE MAIN MARKET,NSUKA ENUGU",
+        }, ]
+    }],
+    FCT: [{
+        Town: "Abuja",
+        data: [{
+                Name: "BOKMAM LIMITED - PASTA",
+                Town: "Abuja",
+                Phone: "0803-7455975",
+                Email: "",
+                Address: "KARU MARKET ABUJA FCT",
+            },
+            {
+                Name: "AMAZING GRACE (ABUJA)",
+                Town: "Abuja",
+                Phone: "0803-4532301",
+                Email: "",
+                Address: "WARE HOUSE 31 KARU MARKETABUJA FCT",
+            },
+            {
+                Name: "EJIDE NIG, LIMITED (ABUJA)",
+                Town: "Abuja",
+                Phone: "0803-3316459",
+                Email: "lamidimonsur@yahoo.com",
+                Address: "25/26 WAREHOUSE, KARU MARKET ABUJA FCT",
+            },
+            {
+                Name: "NEXT CASH & CARRY STORES",
+                Town: "Abuja",
+                Phone: "",
+                Email: "",
+                Address: "KADO-KUCHI ABUJA, FCT",
+            },
+            {
+                Name: "ALH. BABANGIDA NA ALH. SALEH NIG LTD",
+                Town: "Abuja",
+                Phone: "0803-6898096",
+                Email: "alhajibabangidasaleh@gmail.com",
+                Address: "NO 8 NEW MARKET ROAD, MAITAMA ONE WAY PLAZA GWAGWALADA, ABUJA, FCT",
+            },
+            {
+                Name: "1ST INVESTMENT OPTION LIMITED",
+                Town: "Abuja",
+                Phone: "0802-7876876",
+                Email: "",
+                Address: "BLOCK 21, ROAD 45 GWARIMPA ESTATE ABUJA, FCT",
+            },
+            {
+                Name: "SMABIRM  NIGERIA LTD",
+                Town: "Abuja",
+                Phone: "0803-8426365",
+                Email: "jumpus2003@yahoo.com",
+                Address: "SHOP 7 DANIEL OBAJE STREET GARKI - MODEL MARKET  GARKI Abuja",
+            },
+            {
+                Name: "FRAMAZAZ RESOURCE LTD",
+                Town: "Abuja",
+                Phone: "0802-3559320",
+                Email: "gamboaisha@yahoo.com",
+                Address: "522 A Close Plot C 127, Gwarinpa Estate ABUJA, FCT",
+            },
+            {
+                Name: "ALH. IDRIS SALEH NIGERIA LTD",
+                Town: "Abuja",
+                Phone: "0817-2021938",
+                Email: "Aalhajiidrissalehnigltd@gmail.com",
+                Address: "3, Gwagwalada Main  Market, Gwagwalada ABUJA, FCT",
+            },
+            {
+                Name: "STANDFIT PREMIER CONCEPT LIMITED",
+                Town: "Abuja",
+                Phone: "0806-7352173",
+                Email: "rekiyathajia@gmail.com",
+                Address: "BLOCK B/LINE E9, DUTSE MARKET, CLOSE TO YAM AND TOMATO MARKET, DUTSE ABUJA FCT",
+            },
+            {
+                Name: "DAILY NEED DISTRIBUTORS LTD",
+                Town: "Abuja",
+                Phone: "08038882069",
+                Email: "",
+                Address: "PLOT 800, WAZIRI H. AHMADU CRESCENT, CADASTRAL ZONE C 16, IDU INDUSTRIAL AREA, ABUJA FCT",
+            },
+            {
+                Name: "CITODA ENTERPRISES",
+                Town: "Abuja",
+                Phone: "08065826000",
+                Email: "citoda19@gmail.com",
+                Address: "PLOT 310, JANET DUNIYA STREET, APO EXTENSION, GUDU DISTRICT, ABUJA FCT.",
+            },
+            {
+                Name: "NORTEX BUSINESS LINK LTD",
+                Town: "Abuja",
+                Phone: "08184320586",
+                Email: "ejikennoli@gmail.com",
+                Address: "PLOT 8, SUSAN ADOBA STREET LIFE CAMP, ABUJA",
+            },
+        ]
+    }],
+    Gombe: [{
+        Town: "Gombe",
+        data: [{
+            Name: "AHAJAS NIGERIA LTD",
+            Town: "Gombe",
+            Phone: "0803-6082750",
+            Email: "marafa@yahoo.com",
+            Address: "Gombe",
+        }, ]
+    }],
+    Imo: [{
+            Town: "Okigwe",
+            data: [{
+                Name: "NELSON UDE BAKERY",
+                Town: "Okigwe",
+                Phone: "08068818441",
+                Email: "",
+                Address: "OKIGWE, IMO",
             }, ]
         },
-    ]
+        {
+            Town: "Orlu",
+            data: [{
+                Name: "LOVERS BAKERY",
+                Town: "Okigwe",
+                Phone: "08067422185",
+                Email: "",
+                Address: "ORLU IMO",
+            }, ]
+        },
+        {
+            Town: "Owerri",
+            data: [{
+                    Name: "EMMANGO GLOBAL VENTURES",
+                    Town: "Owerri",
+                    Phone: "0815-9012985",
+                    Email: "",
+                    Address: "NO 34 EZEHRO STREET ORLU, IMO",
+                },
+                {
+                    Name: "KPD MERCHANDISE LTD- PASTA",
+                    Town: "Owerri",
+                    Phone: "0706-3460274",
+                    Email: "",
+                    Address: "10 OKIGWE ROAD OWERRI, IMO",
+                },
+                {
+                    Name: "D.O.C OKEKE ENTERPRISES",
+                    Town: "Owerri",
+                    Phone: "0803-9239569",
+                    Email: "",
+                    Address: "35 EMEN INDUSTRIAL LAY-OUT BEHIND ANNAMCCO, OWERRI IMO",
+                },
+                {
+                    Name: "EL-FANS GLOBAL SERVICES LIMITED",
+                    Town: "Owerri",
+                    Phone: "0803-8725337",
+                    Email: "",
+                    Address: "SHOP 15-17, SLAUGHTER WAREHOUSE, RELIEF MARKET, OWERRI, IMO",
+                },
+                {
+                    Name: "PATRICK OBIJIAKU ENTERPRISES LTD",
+                    Town: "Owerri",
+                    Phone: "08068454549",
+                    Email: "",
+                    Address: "1, EKE MARKET ROAD, OKIGWE, IMO STATE OWERRI",
+                },
+                {
+                    Name: "BRIGHT FAITH CHOPS NIG. LIMITED",
+                    Town: "Owerri",
+                    Phone: "07039426190",
+                    Email: "",
+                    Address: "TRIBOND AVENUE, EBIKORO AREA,URATTA OWERRI, IMO",
+                },
+                {
+                    Name: "OLIVER SANDRA ENTERPRISES",
+                    Town: "Owerri",
+                    Phone: "08033295429",
+                    Email: "",
+                    Address: "12 SCHOOL ROAD OWERRI IMO STATE OWERRI",
+                },
+                {
+                    Name: "K. D. K. ASSOCIATE",
+                    Town: "Owerri",
+                    Phone: "",
+                    Email: "",
+                    Address: "	OWERRI, IMO",
+                },
+                {
+                    Name: "KPD MERCHABIDE LIMITED",
+                    Town: "Owerri",
+                    Phone: "",
+                    Email: "",
+                    Address: "OWERRI IMO",
+                },
+            ]
+        },
+    ],
+
+    Jigawa: [{
+            Town: "Dutse",
+            data: [{
+                Name: "TASIU KURA SALES DEPOT",
+                Town: "Dutse",
+                Phone: "0701-8452357",
+                Email: "",
+                Address: "16 Kwari Nawalin Street, Ningi-Bauchi Road, Gwaram DUTSE Jigawa",
+            }]
+        }, {
+            Town: "Hadejia",
+            data: [{
+                Name: "ALHAJI MUSA O. HADEJIA & SONS LTD",
+                Town: "Hadejia",
+                Phone: "0803-1815188",
+                Email: "",
+                Address: "50, ADO BAYERO ROAD, SINGER MARKET, KANO",
+            }]
+        },
+        {
+            Town: "Jigawa",
+            data: [{
+                Name: "HAMIR INVESTMENT",
+                Town: "Jigawa",
+                Phone: "0803-5040277",
+                Email: "hamirinvestment2000@yahoo.com",
+                Address: "5 INVESTMENT HOUSE KIYAWA ROAD, JIGAWA",
+            }]
+        }
+    ],
+    Kaduna: [{
+        Town: "Kaduna",
+        data: [{
+                Name: "ALHAJI UMARU MUSA BAKERY",
+                Town: "Kaduna",
+                Phone: "0802-7940197",
+                Email: "hamstores@yahoo.com",
+                Address: "N4C AMINU STR  KASUWA BARCHITUDUN WADA, KADUNA",
+            },
+            {
+                Name: "SAY-SURAJ ENTERPRISES",
+                Town: "Kaduna",
+                Phone: "0803-2987235",
+                Email: "aliyuumar549@gmail.com",
+                Address: "AB 2, Ibrahim Taiwo Road, Central Market Kaduna",
+            },
+            {
+                Name: "MUABSA INTEGRATED SERVICES(SEMO)",
+                Town: "Kaduna",
+                Phone: "0803-6986204",
+                Email: "Bunyanenterprises@gmail.com",
+                Address: "SABONGARI MARKET ZARIA KADUNA",
+            },
+            {
+                Name: "YADIYA NIG LTD - PASTA",
+                Town: "Kaduna",
+                Phone: "0706-3245766",
+                Email: "Sulaiman.muabsa1@gmail.com",
+                Address: "AV 15 CALABAR STREET KADUNA ",
+            },
+            {
+                Name: "SID-BATT GLOBAL VENTURES",
+                Town: "Kaduna",
+                Phone: "0803-4514022",
+                Email: "ayodeledavid51@yahoo.com",
+                Address: "KADUNA",
+            },
+            {
+                Name: "PTL JIL",
+                Town: "Kaduna",
+                Phone: "0816-5473079",
+                Email: "",
+                Address: "109A U/PAMA ROAD, SABO TASHA MARKET CHIKUN LGA KADUNA",
+            },
+            {
+                Name: "BINT AND LAMS VENTURES",
+                Town: "Kaduna",
+                Phone: "0806-0263285",
+                Email: "oladeji56@ymail.com",
+                Address: "15 CALABAR STREET, KADUNA NORTH, KADUNA",
+            },
+            {
+                Name: "HARCO HYDRO SOLUTIONS LTD",
+                Town: "Kaduna",
+                Phone: "0802-6029052",
+                Email: "",
+                Address: "MX2 NNAMDI AZIKWE WAY, MURIKAILA ABASS PETROLEUM, KURMA MASHI KADUNA",
+            },
+            {
+                Name: "FOMT MULTILEVEL LIMITED",
+                Town: "Kaduna",
+                Phone: "0803-2075918",
+                Email: "",
+                Address: "INNOVATION PLAZA BY STADIUM ROUNDABOUT, KADUNA",
+            },
+        ]
+    }, {
+        Town: "Kafanchan",
+        data: [{
+            Name: "GODSWILL MARK INVESTMENT",
+            Town: "Kafanchan",
+            Phone: "0703-1108039",
+            Email: "Laminaabdulrahman61@gmail.com",
+            Address: "1 GDSS Road, Kafanchan Kaduna",
+        }]
+    }, {
+        Town: "Zaria",
+        data: [{
+                Name: "ALHAJI SALIHU DANHALIMA-PASTA",
+                Town: "Zaria",
+                Phone: "0703-4674619",
+                Email: "",
+                Address: "38 Old Hospital Road, By Rex Cinema, Sabongari, ZARIA, KADUNA",
+            },
+            {
+                Name: "UGOBEST BUSINESS ASSOCIATES NIG LTD - PASTA",
+                Town: "Zaria",
+                Phone: "0803-3175114",
+                Email: "",
+                Address: "Opposite Maraba Rex Main Market Sabo/Gari Zaria Kaduna",
+            },
+            {
+                Name: "UMAR FARUK ENTERPRISES - PASTA",
+                Town: "Zaria",
+                Phone: "0803-7015605",
+                Email: "ugobestltd@gmail.com",
+                Address: "28, MAIN STREET, SABO GARI OPP MOBIL FILLING STATION S/G ZARIA KADUNA",
+            },
+            {
+                Name: "SALISU ABBA",
+                Town: "Zaria",
+                Phone: "0803-5777014",
+                Email: "excellentfoods55@gmail.com",
+                Address: "SHOP NO TAN TABA, TD273/274 OLD HOSPITAL RD SABON GARI ZARIA, KADUNA",
+            },
+            {
+                Name: "STEPHEN UYO ENT",
+                Town: "Zaria",
+                Phone: "0803-6397335",
+                Email: "",
+                Address: "MBS 72 & 78 MAIN MARKET, SABON GARI ZARIA KADUNA",
+            },
+            {
+                Name: "SHEHU NA ALLAH GENERAL ENTERPRISES",
+                Town: "Zaria",
+                Phone: "0803-7054369",
+                Email: "Umarf42@yahoo.com",
+                Address: "G G 12, BLOCK 113, SABON GARI MARKET ZARIA KADUNA",
+            },
+        ]
+    }],
+    Kano: [{
+        Town: "Kano",
+        data: [{
+                Name: "ALH. USAINI IBRAHIM ENTERPRISES",
+                Town: "Kano",
+                Phone: "0803-4915202",
+                Email: "",
+                Address: "64E ADO BAYERO ROAD SHOP 7 SINGER MARKET KANO, NIGERIA",
+            },
+            {
+                Name: "ASHIRU ALI MOHAMMED VENTURES",
+                Town: "Kano",
+                Phone: "081-44444220",
+                Email: "",
+                Address: "NO 53E ADO BAYERO ROAD, KANO FAGGE LOCAL GOVERNMENT KANO",
+            },
+            {
+                Name: "MANY AGRO ALLIED - PASTA",
+                Town: "Kano",
+                Phone: "0903-3020303",
+                Email: "labaransudawa77@gmail.com",
+                Address: "26 E ADDO BAYERO RD SINGER MARKET KANO",
+            },
+            {
+                Name: "ALHAJI DALHA GARBA AND SONS LIMITED",
+                Town: "Kano",
+                Phone: "0702-6333777",
+                Email: "sanidalha@gmail.com",
+                Address: "20E BELLO ROAD KANO 521 GWAMMAJA QTRS DALA LGA KANO",
+            },
+            {
+                Name: "SAMMANI GENERAL MERCHANT NIG LTD",
+                Town: "Kano",
+                Phone: "0803-7039222",
+                Email: "sammanigeneralmerchantsnig.ltd@gmail.com",
+                Address: "27E ADO BAYERO ROAD, SINGER MARKET KANO",
+            },
+            {
+                Name: "ALH. BABA DANBAPPA",
+                Town: "Kano",
+                Phone: "0803-2077839",
+                Email: "",
+                Address: "NO 15E BELLO ROAD, KANO",
+            },
+            {
+                Name: "SAMBAJO GENERAL ENT. LTD - PASTA",
+                Town: "Kano",
+                Phone: "0805-4444441",
+                Email: "msambajo@gmail.com",
+                Address: "35E ADO BAYERO ROAD KANO.",
+            },
+            {
+                Name: "MAZAF MINI DEPOT",
+                Town: "Kano",
+                Phone: "0803-3338529",
+                Email: "mazafminidepot@yahoo.co.uk",
+                Address: "SHOP 1 SOUTHERN GATE, KATSINA CENTRAL-MARKET, KATSINA",
+            },
+            {
+                Name: "DANLAMI ALHASSAN & SONS NIG LTD",
+                Town: "Kano",
+                Phone: "0803-6318056",
+                Email: "idalhassan01@gmail.com",
+                Address: "30E  ADO BAYERO KANO",
+            },
+            {
+                Name: "SABO DANKOLI & SONS LIMITED",
+                Town: "Kano",
+                Phone: "0702-6010101",
+                Email: "",
+                Address: "39E ADO BAYERO ROAD, SINGER MARKET, KANO",
+            },
+            {
+                Name: "SANI ADAMU ENTERPRISES",
+                Town: "Kano",
+                Phone: "0803-7040873",
+                Email: "sanitrader2000@yahoo.com",
+                Address: "NO. 58E, ADO BAYERO, ROAD, SINGA, KANO",
+            },
+            {
+                Name: "Z.N.U AMINCHI GLOBAL VENTURES",
+                Town: "Kano",
+                Phone: "0809-9188292",
+                Email: "z.bagobiri@gmail.com",
+                Address: "NO. 20, BELLO ROAD BY YOLAWA STREET KANO",
+            },
+            {
+                Name: "ALH BABA MAGAJI LAWAN GENERAL ENTERPRISES",
+                Town: "Kano",
+                Phone: "0803-6191413",
+                Email: "babaalawa@yahoo.com",
+                Address: "15E, BELLO ROAD KANO",
+            },
+        ]
+    }],
+    Katsina: [{
+        Town: "Katsina",
+        data: [{
+                Name: "YAHUZA ABDULLAHI AND SONS NIG. LTD",
+                Town: "Katsina",
+                Phone: "0806-6059119",
+                Email: "yahuzaabdullahiil434@gmail.com",
+                Address: "PLOT NO 101 MAIN MARKET OPP. VETERINARY CLINIC MALUMFASHI, KATSINA",
+            }, {
+                Name: "ALH. ABDULWAHAB SHAGUMBA",
+                Town: "Katsina",
+                Phone: "08034264919",
+                Email: "",
+                Address: "KATSINA ROAD, CENTRAL MARKET, FUNTUA KATSINA",
+            }, {
+                Name: "ASY GENERAL ENTERPRISES COMPANY LIMITED",
+                Town: "Katsina",
+                Phone: "0803-6437589",
+                Email: "mabubakar460@gmail.com",
+                Address: "CSC DEPOT FUNTUA BESIDE UNION BANK PLC, OPPOSITE SHARIA COURT, KATSINA",
+            },
+            {
+                Name: "ASY GENERAL ENTERPRISES COMPANY LIMITED",
+                Town: "Katsina",
+                Phone: "0803-6437589",
+                Email: "mabubakar460@gmail.com",
+                Address: "SOUTHERN GATE, KATSINA CENTRAL MARKET KATSINA",
+            },
+        ]
+    }],
+    Kebbi: [{
+        Town: "Birnin-Kebbi",
+        data: [{
+                Name: "RAHAMA VENTURES",
+                Town: "Birnin-Kebbi",
+                Phone: "0803-6050488",
+                Email: "ibrahiachida11@gmail.com",
+                Address: "40,CORNER ZAIDU ROAD JEGA BIRNIN-KEBBI Kebbi",
+            },
+            {
+                Name: "ALH. YAHAYA HARUNA",
+                Town: "Birnin-Kebbi",
+                Phone: "0803-6074577",
+                Email: "yusufabubakag3@gmail.com",
+                Address: "OPPOSITE MAIN GATE, CENTRAL MARKET, BIRNIN KEBBI kebbi",
+            }
+        ]
+    }],
+    Kogi: [{
+            Town: "Kabba",
+            data: [{
+                Name: "JOHNNY INTERBIZ NIG LTD-PASTA",
+                Town: "Kabba",
+                Phone: "0803-9668931",
+                Email: "jgloria2535@gmail.com",
+                Address: "44 MAIN MARKET KABBA, KOGI",
+            }]
+        },
+        {
+            Town: "Okene",
+            data: [{
+                    Name: "WALLYBAJ (NIGERIA) ENTERPRISES",
+                    Town: "Okene",
+                    Phone: "0803-4686493",
+                    Email: "wallybajinvestments@gmail.com",
+                    Address: "NO 1 WHITE HOUSE STROES, NATIONAL BANK ROAD OKENE KOGI",
+                },
+                {
+                    Name: "GREATER HAMIDA VENTURES",
+                    Town: "Okene",
+                    Phone: "0803-6993345",
+                    Email: "wofilishuaibu@gmail.com",
+                    Address: "NO 3 WOKILI SHOPPING COMPLEX, MAIN MARKET, OKENE, KOGI",
+                },
+                {
+                    Name: "TIM EMLO & ENOS NIGERIA LTD",
+                    Town: "Okene",
+                    Phone: "0802-8062022",
+                    Email: "sylvanus1959@gmail.com",
+                    Address: "No 10 Lafia Street,OKENE KOGI",
+                },
+                {
+                    Name: "AHMED03 SUCCESS GLOBAL VENTURES",
+                    Town: "Okene",
+                    Phone: "08032908181",
+                    Email: "",
+                    Address: "BESIDE FEDERAL COLLEGE OF EDUCATION, OKENE KOGI",
+                },
+            ]
+        }, {
+            Town: "Lokoja",
+            data: [{
+                    Name: "MUS'HADAM INVESTMENT NIGERIA LTD. (FLOUR)",
+                    Town: "Lokoja",
+                    Phone: "0803-3426088",
+                    Email: "",
+                    Address: "OLD JOHN HOLT DEPOT,KPATA, LOKOJA",
+                },
+                {
+                    Name: "ESSY & COMPANY VENTURES",
+                    Town: "Lokoja",
+                    Phone: "0803-8223419",
+                    Email: "ihionuesther@gmail.com",
+                    Address: "VICTORY PLAZA GANAJA VILLAGE KOGI, LOKOJA",
+                },
+            ]
+        }, {
+            Town: "Ayangba",
+            data: [{
+                    Name: "VIVIFRANK NIGERIA ENT.",
+                    Town: "Ayangba",
+                    Phone: "0806-7076492",
+                    Email: "vivifrank4real@gmail.com",
+                    Address: "NO 12 NEW MARKET ROAD, ANYIGBA, AYANGBA, KOGI",
+                },
+                {
+                    Name: "G.C.GORDONS INTERBIZ VENTURES",
+                    Town: "Ayangba",
+                    Phone: "0806-4573030",
+                    Email: "",
+                    Address: "9,OMEDE STREET,ANYIGBA, AYANGBA KOGI",
+                },
+            ]
+        }, {
+            Town: "Ankpa",
+            data: [{
+                Name: "ISAAC DIM FRANK ENTERPRISES",
+                Town: "Ankpa",
+                Phone: "0703-3253190",
+                Email: "",
+                Address: "14 OTUKPO ROAD, ANKPA, KOGI",
+            }]
+        },
+        {
+            Town: "Isanlu",
+            data: [{
+                Name: "ISAAC DIM FRANK ENTERPRISES",
+                Town: "Isanlu",
+                Phone: "0701-2706050",
+                Email: "sunnytradingcompany@gmail.com",
+                Address: "34, ISANLU, KOGI",
+            }]
+        },
+    ],
+    Kwara: [{
+        Town: "Ilorin",
+        data: [{
+                Name: "EJIDE NIGERIA LIMITED (ILORIN)",
+                Town: "Ilorin",
+                Phone: "0803-3316459",
+                Email: "lamidimonsur@yahoo.com",
+                Address: "SHOP 3, MANDATE ULTRA-MODERN MARKET, ILORIN, KWARA",
+            },
+            {
+                Name: "BASHILAS NIG LTD",
+                Town: "Ilorin",
+                Phone: "0808-8703802",
+                Email: "bashilasnigltd@gmail.com",
+                Address: "116 ABDULAZEEZ ATTAH ROAD BABOKO ILORIN, KWARA",
+            },
+            {
+                Name: "MOUNT OLIVES - PASTA",
+                Town: "Ilorin",
+                Phone: "0705-1092901",
+                Email: "mtolive0103@gmail.com",
+                Address: "33 NEW MARKET ROAD BABOKO ILORIN, KWARA",
+            },
+            {
+                Name: "ZAIMAM STORES",
+                Town: "Ilorin",
+                Phone: "0815-2138182",
+                Email: "",
+                Address: "7 Molete Market Road, Moro L.G.A, Ilorin Kwara State",
+            },
+            {
+                Name: "MASAKEEM PLUS ENT. (Semo)",
+                Town: "Ilorin",
+                Phone: "0803-2826755",
+                Email: "",
+                Address: "ILORIN KWARA",
+            },
+            {
+                Name: "S.S.T. STORES-PASTA",
+                Town: "Ilorin",
+                Phone: "0803-5755868",
+                Email: "",
+                Address: "Shop 8 Arewa shopping Complex, Yoruba Road ILORIN KWARA",
+            },
+            {
+                Name: "NAJRAS ABIKE NIGERIA LTD",
+                Town: "Ilorin",
+                Phone: "0706-8584115",
+                Email: "honestking@gmail.com",
+                Address: "ILORIN, KWARA",
+            },
+            {
+                Name: "AL-AMEEN STORES",
+                Town: "Ilorin",
+                Phone: "0803-3708040",
+                Email: "",
+                Address: "Shop 10 agbo-Oba RoadBehind PHCN Baboko Market, ILORIN KWARA",
+            },
+            {
+                Name: "ALHAJA AFIZAT ARIKEUYO",
+                Town: "Ilorin",
+                Phone: "",
+                Email: "",
+                Address: "63/64, BESIDE NEPA OFFICE, NEW MARKET.ILORIN, KWARA",
+            },
+            {
+                Name: "JANABAM NIGERIALTD",
+                Town: "Ilorin",
+                Phone: "0816-8859234",
+                Email: "",
+                Address: "MANDATE ULTRAMODERN MARKET ILORIN, KWARA",
+            },
+            {
+                Name: "MISTUFIK GLOBAL RESOURCES NIGERIA LIMITED",
+                Town: "Ilorin",
+                Phone: "0708-4381969",
+                Email: "iyadunni46@yahoo.com, aareesaad@yahoo.com",
+                Address: "5 Kolawole Close, GRA, ILORIN, KWARA",
+            },
+            {
+                Name: "EXCEL FITRATION AND BEVERAGES NIGERIA LIMITED",
+                Town: "Ilorin",
+                Phone: "08096082915",
+                Email: "",
+                Address: "OMU ARAN MAIN MARKET OMU-ARAN ILORIN, KWARA",
+            },
+            {
+                Name: "THE MASTER VESSEL INDUSTRIAL LIMITED",
+                Town: "Ilorin",
+                Phone: "0803-3764380",
+                Email: "olafimihanca@gmail.com",
+                Address: "KANNIKE SHOPPING COMPLEX, IPATA MARKET ILORIN KWARA",
+            },
+            {
+                Name: "SANSALMA NIGERIA LIMITED",
+                Town: "Ilorin",
+                Phone: "0803-3643628",
+                Email: "",
+                Address: "Shop 4 & 5 Garage Ojatuntun ILORIN, KWARA",
+            },
+        ]
+    }, {
+        Town: "Offa",
+        data: [{
+            Name: "OYEBOLA TRADING ENTERPRISES",
+            Town: "Offa",
+            Phone: "0909-1323466",
+            Email: "",
+            Address: "SANNI ABA SHOPPING COMPLEX, OWODE MARKET, OFFA KWARA",
+        }]
+    }],
+    Nasarawa: [{
+            Town: "Nasarawa",
+            data: [{
+                    Name: "TONY CONFECTIONERIES - PASTA",
+                    Town: "Nasarawa",
+                    Phone: "0803-6199930",
+                    Email: "obiohachristopher@rocketmail.com",
+                    Address: "8 & 17 GSS ROAD NASARAWA",
+                },
+                {
+                    Name: "MOUNT OLIVE NIGERIA LIMITED(maraba)",
+                    Town: "Nasarawa",
+                    Phone: "0803-3975846",
+                    Email: "mtolivesnig@yahoo.com",
+                    Address: "9&10 KARU INTERNATIONAL MARKET, MARABA, NASARAWA",
+                },
+                {
+                    Name: "GLITZ PLACE LIMITED",
+                    Town: "Nasarawa",
+                    Phone: "0803-0127105",
+                    Email: "ltg@gmail.com",
+                    Address: "SHOP 30, PRIME PLAZA, ABACHA ROAD, KARU, NASARAWA",
+                },
+                {
+                    Name: "EJITEX MAZI JR. NIGERIA LTD",
+                    Town: "Nasarawa",
+                    Phone: "0808-8174911",
+                    Email: "",
+                    Address: "SHOP 4, ALONG KWANGA/JOS ROAD KWANGA, NASARAWA",
+                },
+            ]
+        }, {
+            Town: "Keffi",
+            data: [{
+                Name: "DE YOUNG SOLO ENTERPRISES",
+                Town: "Keffi",
+                Phone: "0803-3797222",
+                Email: "princeezesolo22@gmail.com",
+                Address: "91, FRONT LINE PROVISION MAIN LINE, KEFFI, NASARAWA",
+            }]
+        },
+        {
+            Town: "Lafia",
+            data: [{
+                Name: "‎‪‪‪IZUBARTHEZE NIGERIA ENTERPRISES",
+                Town: "Lafia",
+                Phone: "0812-3781162",
+                Email: "ezeanizuchukwu94@gamil.com",
+                Address: "1, DOMA ROAD, LAFIA, NASARAWA",
+            }]
+        },
+
+    ],
+    Niger: [{
+            Town: "Bida",
+            data: [{
+                Name: "AMACHI IKE AND COMPANY",
+                Town: "Bida",
+                Phone: "0906-9444282",
+                Email: "",
+                Address: "2, HAJIYA LOLO JUNCTION ROAD, OPPOSITE NEW GENERAL MOSQUE BIDA, NIGER",
+            }]
+        },
+        {
+            Town: "Kontagora",
+            data: [{
+                Name: "C. I. OBIOHA & SONS LTD",
+                Town: "Kontagora",
+                Phone: "0806-5633097",
+                Email: "",
+                Address: "147, NEW MARKET KONTAGORA, NIGER",
+            }]
+        },
+        {
+            Town: "Suleja",
+            data: [{
+                Name: "JIKADAWA ENTERPRISES LTD",
+                Town: "Suleja",
+                Phone: "0803-7103105",
+                Email: "",
+                Address: "SULEIMAN BIBRIN PLAZA, SHOP NO. 17, SULEJA, NiGER",
+            }]
+        },
+        {
+            Town: "Minna",
+            data: [{
+                    Name: "MOHAMMED MALALI ENTERPRISES",
+                    Town: "Minna",
+                    Phone: "0813-6878939",
+                    Email: "",
+                    Address: "NO PS 155 YAN WAKE GARKI GARAGE SULEJA, NIGER",
+                },
+                {
+                    Name: "MOHAMMED BASHIRU ENTERPISES",
+                    Town: "Minna",
+                    Phone: "0703-4000022",
+                    Email: "achidasaidu@gmail.com",
+                    Address: "14B NEW CENTRAL MARKET MINNA, NIGER",
+                },
+                {
+                    Name: "A.A DAYI NIGERIA LIMITED",
+                    Town: "Minna",
+                    Phone: "0805-5878558",
+                    Email: "",
+                    Address: "1, NAGARI RESIDENTIAL LAYOUT MAITUMBI MINNA, NIGER",
+                },
+            ]
+        },
+
+    ],
+    Ogun: [{
+            Town: "Abeokuta",
+            data: [{
+                    Name: "ROYAL GATE COMM. & MARKETING LTD.",
+                    Town: "Abeokuta",
+                    Phone: "",
+                    Email: "",
+                    Address: "KLM 3, AYETORO HOUSE, NEAR OLUB PETROL STATION  ABEOKUTA OGUN",
+                },
+                {
+                    Name: "SWEETMOTHER-SWEETBROTHER NIGERIA ENTERPRISES",
+                    Town: "Abeokuta",
+                    Phone: "0813-0947569",
+                    Email: "",
+                    Address: "BESIDE TOTAL FILLING STATION EXPRESS ROAD ILARO. OGUN",
+                },
+            ]
+        }, {
+            Town: "Agbara",
+            data: [{
+                Name: "GUDWAY FOODS & INTEGRATED SERVICES LIMITED",
+                Town: "Agbara",
+                Phone: "0803-3368525",
+                Email: "gudway4life@gmail.com",
+                Address: "LUSADA ATAN ROAD, OPPOSITE SIBERT FILLING STATION, BEFORE CRAWFORD UNIVERSITY, LUSADA AGBARA OGUN",
+            }]
+        },
+        {
+            Town: "Ago-Iwoye",
+            data: [{
+                Name: "AL-WADUD",
+                Town: "Ago-Iwoye",
+                Phone: "0805-5119895",
+                Email: "",
+                Address: "IJESHA ROAD AGO-IWOYE ABEOKUTA OGUN",
+            }]
+        },
+        {
+            Town: "Ifo",
+            data: [{
+                Name: "SUNSHADE OLUWATOBI VENTURES- SNACKS",
+                Town: "Ifo",
+                Phone: "0803-2153677",
+                Email: "",
+                Address: "24, LAGOS - ABEOKUTA EXPRESS WAY IFO OGUN",
+            }]
+        },
+        {
+            Town: "Ijebu-Ode",
+            data: [{
+                    Name: "ADIDOT NIGERIA ENTERPRISES",
+                    Town: "Ijebu-Ode",
+                    Phone: "0805-5308120",
+                    Email: "",
+                    Address: "44, OLISA STREET IJEBU-ODE IJEBU-ODE OGUN",
+                },
+                {
+                    Name: "JETOPS NIGERIA LIMITED",
+                    Town: "Ijebu-Ode",
+                    Phone: "",
+                    Email: "",
+                    Address: "8, Gbenga Daniel Shopping Complex, Oke - Sopen.IJEBU IGBO IJEBU-ODE OGUN",
+                },
+                {
+                    Name: "GEMINI OLUWASEUN VENTURES",
+                    Town: "Ijebu-Ode",
+                    Phone: "0803-4725703",
+                    Email: "",
+                    Address: "KM 1 MONATAN, IWO ROAD, IBADAN",
+                },
+                {
+                    Name: "HAMS SERVICES",
+                    Town: "Ijebu-Ode",
+                    Phone: "",
+                    Email: "",
+                    Address: "SHOP B5, SADETAD FARMERS MARKET, IDOBI, IJEBU-ODE OGUN",
+                },
+            ]
+        }, {
+            Town: "Ilaro",
+            data: [{
+                Name: "OLA OSHUN 2 FMN DEPOT (ILARO)",
+                Town: "Ilaro",
+                Phone: "0803-8978563",
+                Email: "",
+                Address: "IGBO-IFA, ALONG IJOFIN-TUBE ROAD, IPOKIA ILARO OGUN",
+            }]
+        },
+        {
+            Town: "Magboro",
+            data: [{
+                    Name: "FAITH CIRCLE VENTURES -PASTA",
+                    Town: "Magboro",
+                    Phone: "0803-8996311",
+                    Email: "",
+                    Address: "IBRU SHOPPING COMPLEX  MAGBORO OGUN",
+                },
+                {
+                    Name: "LITEHOUSE PRODUCTIONS ENTERPRISES",
+                    Town: "Magboro",
+                    Phone: "0803-7130154",
+                    Email: "",
+                    Address: "Plot 1002 Olufemi Balogun Crescent, Gloryland Estate, Arepo MAGBORO OGUN",
+                },
+            ]
+        }, {
+            Town: "Sango Otta",
+            data: [{
+                    Name: "EMEKA AND JANE COMPANY",
+                    Town: "Sango Otta",
+                    Phone: "0805-8881541",
+                    Email: "emekaandjane@gmail.com",
+                    Address: "N0,1 Owoyemi House, Opp. Intercontinental Bank Plc, Lagos Abeokuta Expressway, P.O Box 1870, SANGO OTTA OGUN",
+                },
+                {
+                    Name: "FEMADON'S ENTERPRISES -PASTA",
+                    Town: "Sango Otta",
+                    Phone: "0813-2654425",
+                    Email: "Femadonsidowu@yahoo.com",
+                    Address: "281, IDIROKO ROAD, SANGO OTTA OGUN",
+                },
+                {
+                    Name: "BZION ENTERPRISES",
+                    Town: "Sango Otta",
+                    Phone: "0909-3593425",
+                    Email: "Bzion.ent@gmail.com",
+                    Address: "LAGOS/ABEOKUTA EXPRESSWAY, BESIDE IBTC BANK, SINGER BUS STOP, SANGO OTTA OGUN, NIGERIA",
+                },
+                {
+                    Name: "TOLUWANI TRADING STORES",
+                    Town: "Sango Otta",
+                    Phone: "0812-7448886",
+                    Email: "Detofola@gmail.com",
+                    Address: "5 ADESOKAN STREET, OFF IDIROKO ROAD,BESIDE ELEPHANT CLUB,OJU-ORE SANGO-OTTA, Ogun",
+                },
+                {
+                    Name: "DIPKOL ENTERPRISES",
+                    Town: "Sango Otta",
+                    Phone: "0802-3260370",
+                    Email: "dipkolconcerns@yahoo.com",
+                    Address: "70 Lagos Abeokuta Expressway Beside Sweet Sensation SANGO-OTTA OGUN",
+                },
+                {
+                    Name: "TUNDERAYO NIGERIA ENTERPRISES",
+                    Town: "Sango Otta",
+                    Phone: "0818-7453848",
+                    Email: "",
+                    Address: "41/43 TARMA ROAD, TEMIDIRE BUS STOP, ABEOKUTA EXPRESSWAY SANGO-OTTA OGUN",
+                },
+            ]
+        }, {
+            Town: "Shagamu",
+            data: [{
+                    Name: "SUN CHRIST O.T. NIGERIA LTD",
+                    Town: "Shagamu",
+                    Phone: "0813-3016401",
+                    Email: "",
+                    Address: "13 B. ODI OLOWO STREET SHAGAMU OGUN",
+                },
+                {
+                    Name: "PRINCESS OCHUWA ENTERPRISES	",
+                    Town: "Shagamu",
+                    Phone: "0706-7155285",
+                    Email: "",
+                    Address: "20, SODE STREET, SABO, SHAGAMU OGUN",
+                },
+                {
+                    Name: "SERIKI ENIABIRE NIGERIA ENTERPRISES",
+                    Town: "Shagamu",
+                    Phone: "08028517905",
+                    Email: "",
+                    Address: "SOBE STREET, BEHIND U.B.A PLC, SABO SHAGAMU OGUN",
+                },
+            ]
+        }
+    ],
+    Ondo: [{
+            Town: "Ikare",
+            data: [{
+                    Name: "ONYEKACHUKWU",
+                    Town: "Ikare",
+                    Phone: "0706-5840411",
+                    Email: "ollyfrance@gmail.com",
+                    Address: "BEHIND ALHAJI BAWA HOUSE, SABO UGBE, IKARE, ONDO STATE.",
+                },
+                {
+                    Name: "ERISCO CHISCO",
+                    Town: "Ikare",
+                    Phone: "08187001912",
+                    Email: "",
+                    Address: "L/31, ILEPA STREET, IKARE ONDO",
+                },
+            ]
+        },
+        {
+            Town: "Ore",
+            data: [{
+                Name: "W J ONYEMA SUPPLY CO LTD - PASTA",
+                Town: "Ore",
+                Phone: "0803-7011748",
+                Email: "",
+                Address: "44, OLD BENIN ROAD ORE ONDO",
+            }]
+        },
+        {
+            Town: "Akure",
+            data: [{
+                    Name: "SAACLORA COMMERCIAL ENTERPRISES",
+                    Town: "Akure",
+                    Phone: "",
+                    Email: "",
+                    Address: "Ereketa Shopping Complex Beside Maternity Centre Arakale Road Akure, ONDO",
+                },
+                {
+                    Name: "SESAN SOSE",
+                    Town: "Akure",
+                    Phone: "0802-8911161",
+                    Email: "",
+                    Address: "20,OTUTUBOSU STREET,OFF ARAKALE AKURE ONDO",
+                },
+                {
+                    Name: "YONM'S FISHERIES CONCEPT",
+                    Town: "Akure",
+                    Phone: "08035811056",
+                    Email: "yonmsfisheriesconcept@gmail.com",
+                    Address: "5, OJUMO STREET, AKURE, ONDO",
+                },
+            ]
+        }, {
+            Town: "Owo",
+            data: [{
+                Name: "FIDELIS TRUST BIZ CONCEPT",
+                Town: "Owo",
+                Phone: "0806-0607345",
+                Email: "fidelixtrust@yahoo.com",
+                Address: "4, OWALUWA STREET, OWO ONDO",
+            }]
+        }
+    ],
+    Osun: [{
+            Town: "Oshogbo",
+            data: [{
+                    Name: "GANIYAT BADMUS ENTERPRISES",
+                    Town: "Oshogbo",
+                    Phone: "0803-3701168",
+                    Email: "",
+                    Address: "KM 9, NEW IKIRUN ROAD, OSHOGBO",
+                },
+                {
+                    Name: "BAREM INTERNATIONAL ENTERPRISES",
+                    Town: "Oshogbo",
+                    Phone: "0803-3572702",
+                    Email: "",
+                    Address: "BLK C SHOPS 122 &137,NEW ORISUMBARE SHOPPING COMPLEX OSOGBO OSUN STATE OSHOGBO",
+                },
+                {
+                    Name: "DE BEES CONCEPT SYNERGY LTD",
+                    Town: "Oshogbo",
+                    Phone: "0703-5463130",
+                    Email: "",
+                    Address: "6, STATION ROAD, OPPOSITE OLD ORISUMBARE MARKET NEAR OSHOGBO, OSUN",
+                },
+                {
+                    Name: "MOJEERE AANU OLUWA NIGERIA ENT",
+                    Town: "Oshogbo",
+                    Phone: "",
+                    Email: "",
+                    Address: "1, LATONA STREET, ALL STREET AREA, OSHOGBO, Osun",
+                },
+            ]
+        }, {
+            Town: "Ikirun",
+            data: [{
+                    Name: "MONYAHSAU MULTIDYNAMIC BUSINESS LIMITED",
+                    Town: "Ikirun",
+                    Phone: "0806-5756683",
+                    Email: "",
+                    Address: "ALAMISIS MARKET AREA, OPPOSITE MICROFINANCE BANK IKIRUN OSUN",
+                },
+
+            ]
+        },
+        {
+            Town: "Ilesha",
+            data: [{
+                    Name: "JOLAKINS GLOBAL ENTERPRISES",
+                    Town: "Ilesha",
+                    Phone: "0806-2645884",
+                    Email: "",
+                    Address: "1, ARALOPON IROJO Ilesha OSUN",
+                },
+
+            ]
+        },
+
+    ],
+    Oyo: [{
+        Town: "Ibadan",
+        data: [{
+                Name: "OLUWASESAN SOSE INVEST. & PROP - PASTA",
+                Town: "Ibadan",
+                Phone: "0802-8911161",
+                Email: "",
+                Address: "20,OTUTUBOSU STREET,OFF ARAKALE, AKURE ONDO",
+            },
+            {
+                Name: "DMF FOODS MULTIVENTURES",
+                Town: "Ibadan",
+                Phone: "0818-2934288",
+                Email: "",
+                Address: "203 Agbeni Market Opp. Methodist Cathedral Church IBADAN, OYO",
+            },
+            {
+                Name: "PRYMETYME VENTURES LTD",
+                Town: "Ibadan",
+                Phone: "0803-3613275",
+                Email: "",
+                Address: "7 & 8 OGUNPA SHOPPING MALL OKO-BOLA, IBADAN OYO",
+            },
+            {
+                Name: "RADAK OLANREWAJU NIGERIA LTD",
+                Town: "Ibadan",
+                Phone: "",
+                Email: "",
+                Address: "12 ORITAMERIN JUNCTION, IYANA AYEYE, IBADAN OYO",
+            },
+            {
+                Name: "FULCRUM GOLDEN HERITAGEN (IBADAN)",
+                Town: "Ibadan",
+                Phone: "0803-5396915",
+                Email: "",
+                Address: "4, LEMON BUILDING, OPPOSITE 7-UP JUNCTION, MANOTAN IBADAN OYO",
+            },
+            {
+                Name: "ABIOLA ARAMIDE OLAOLUWA NIGERIA ENTERPRISES",
+                Town: "Ibadan",
+                Phone: "0902-4025863",
+                Email: "",
+                Address: "SW 4/27 SANGO & OJOO MARKET IBADAN OYO",
+            },
+            {
+                Name: "KINGS DAUGHTER GLOBAL STORE",
+                Town: "Ibadan",
+                Phone: "0806-9320302",
+                Email: "",
+                Address: "3, 15 & 24 FOLA SADELA SHOPPING COMPLEX, ANLAANI JUNCTION RING ROAD IBADAN OYO",
+            },
+            {
+                Name: "OLUSAB-OGO OLUWA NIGERIA ENTERPRISES",
+                Town: "Ibadan",
+                Phone: "0806-6193467",
+                Email: "",
+                Address: "71, AGBAJE MARKET AGBENI, OYO. IBADAN. OYO",
+            },
+            {
+                Name: "SAJIM & SONS NIGERIA LTD",
+                Town: "Ibadan",
+                Phone: "0803-6890286",
+                Email: "",
+                Address: "BLOCKA, NO 39, OBA AKINBIYI SHOPPING COMPLEX IBADAN OYO",
+            },
+        ]
+    }, {
+        Town: "Iseyin",
+        data: [{
+                Name: "VERO YORI VENTURES- PASTA",
+                Town: "Iseyin",
+                Phone: "0803-2730363",
+                Email: "",
+                Address: "NO 20, OKUNLOLA STREET, PELLER ROAD- ISEYIN, OYO",
+            },
+            {
+                Name: "LADY B VENTURES ALIAS MAMA BIODUN",
+                Town: "Iseyin",
+                Phone: "0803-8089215",
+                Email: "",
+                Address: "SHOP 2, OLUWOLE SHOPPING COMPLEX ISEYIN OYO",
+            },
+        ]
+    }, , {
+        Town: "Ogbomosho",
+        data: [{
+                Name: "BENELLA NIGERIA LTD",
+                Town: "Ogbomosho",
+                Phone: "080-30630424",
+                Email: "",
+                Address: "CALIFORNIA JUNCTION,  OGBOMOSHO, OYO",
+            },
+            {
+                Name: "EJIDE AYINDE - (OGBOMOSHO)",
+                Town: "Ogbomosho",
+                Phone: "",
+                Email: "",
+                Address: "Idi-Araba, Masifa. Ogbomosho, Oyo",
+            },
+        ]
+    },{
+        Town:"Oyo",
+        data: [
+            {
+                
+            }
+        ]
+    }
+]
 };
 
 export default data;
