@@ -111,7 +111,6 @@
   <script type="module">
     import data from "./app.js";
       let statelist = Object.keys(data)
-      console.log(statelist);
       let stateElement = document.getElementById("state");
       let townElement = document.getElementById("town");
       let townblock = document.querySelector(".townblock");
@@ -126,9 +125,7 @@
       stateElement.innerHTML = options;
       let townset = () => {
         let value = stateElement.options[stateElement.selectedIndex].value;
-        console.log(value);
         let alldata = data[value];
-        console.log(alldata);
         townblock.classList.remove("none");
         toptions = `<option>Select a town in ${value}</option>`;
         alldata.map((item) => {
@@ -144,7 +141,6 @@
           return item.Town === townvalue;
         });
         let storeDetail = alldetails[0].data;
-        console.log(storeDetail)
         detail.innerHTML = "";
         let head2 = document.createElement("h2");
         head2.textContent =
